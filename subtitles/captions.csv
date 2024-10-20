@@ -1,9 +1,81 @@
-dir,sub_dir,parent_img,content
-images,ep1,ep1_img1,Test Content 1
-images,ep1,ep1_img2,Test Content 2
-images,ep1,ep1_img3,Test Content 3
-images,ep1,ep1_img4,Test Content 4
-images,ep1,ep1_img5,Test Content 5
-images,ep1,ep1_img6,Test Content 6
-images,ep1,ep1_img1,Test Content 7
-images,ep2,ep2_img1,Test Content 1
+dir,sub_dir,parent_img,subtitle
+images,ep1,ep1_img1,We can stretch any budget!
+images,ep1,ep1_img2,"Ignore the ceiling, its fine"
+images,ep1,ep1_img3,Why won't this machine work?
+images,ep1,ep1_img4,It just made things worse.
+images,ep1,ep1_img5,Just five more minutes of Dua!
+images,ep1,ep1_img6,Caught you! Back to work!
+images,ep1,ep1_img7,Dua Lipa isn't your lesson!
+images,ep1,ep1_img8,Hashtag: PrincipalGoals!
+images,ep1,ep1_img9,Emergency? More like photo op!
+images,ep1,ep1_img10,Need chalk? I got lasagna!
+images,ep1,ep1_img11,"Come on, you got this!"
+images,ep1,ep1_img12,Is that smoke...?
+images,ep1,ep1_img13,What alarm? I'm busy here!
+images,ep1,ep1_img14,"Just another normal day, huh?"
+images,ep1,ep1_img15,Optimism levels: off the charts!
+images,ep1,ep1_img16,Did I do that right?
+images,ep1,ep1_img17,This is definitely for teaching.
+images,ep1,ep1_img18,"Followers up, school down!"
+images,ep1,ep1_img19,I have a plan. Sort of.
+images,ep1,ep1_img20,It's all under control. Maybe.
+images,ep2,ep2_img1,
+images,ep2,ep2_img2,
+images,ep2,ep2_img3,
+images,ep2,ep2_img4,
+images,ep2,ep2_img5,
+images,ep2,ep2_img6,
+images,ep2,ep2_img7,
+images,ep2,ep2_img8,
+images,ep2,ep2_img9,
+images,ep2,ep2_img10,
+images,ep2,ep2_img11,
+images,ep2,ep2_img12,
+images,ep2,ep2_img13,
+images,ep2,ep2_img14,
+images,ep2,ep2_img15,
+images,ep2,ep2_img16,
+images,ep2,ep2_img17,
+images,ep2,ep2_img18,
+images,ep2,ep2_img19,
+images,ep2,ep2_img20,
+images,ep3,ep3_img1,Melissa staring at engagement numbers.
+images,ep3,ep3_img2,Janine sipping coffee with Melissa.
+images,ep3,ep3_img3,Melissa nervously sipping oversized mug.
+images,ep3,ep3_img4,Janine sketching 'Mood Index' chart.
+images,ep3,ep3_img5,Melissa enters class in neon outfit.
+images,ep3,ep3_img6,Students squinting at Melissa's neon.
+images,ep3,ep3_img7,Melissa pointing nervously at chalkboard.
+images,ep3,ep3_img8,Janine giving Melissa thumbs up.
+images,ep3,ep3_img9,Melissa stumbling over neon shoes.
+images,ep3,ep3_img10,Students laughing at Melissa's stumble.
+images,ep3,ep3_img11,"Melissa embarrassed, Janine holds chart."
+images,ep3,ep3_img12,Melissa using neon-colored flashcards.
+images,ep3,ep3_img13,"Students focusing, Melissa noticing change."
+images,ep3,ep3_img14,Janine gives Melissa thumbs up.
+images,ep3,ep3_img15,"Melissa walking confidently, still glowing."
+images,ep3,ep3_img16,"Melissa trips again, catches herself."
+images,ep3,ep3_img17,Students listening as Melissa teaches.
+images,ep3,ep3_img18,Janine high-fives Melissa after class.
+images,ep3,ep3_img19,Melissa smiling at the camera.
+images,ep3,ep3_img20,"Janine winking, holding 'Mood Index' chart."
+images,ep4,ep4_img1,Janine holding up data charts.
+images,ep4,ep4_img2,Melissa unloading her supplies quietly.
+images,ep4,ep4_img3,Ava shocked by enrollment numbers.
+images,ep4,ep4_img4,Gregory nervously cutting pizza slices.
+images,ep4,ep4_img5,Janine showing pizza performance chart.
+images,ep4,ep4_img6,Melissa happily taking huge slice.
+images,ep4,ep4_img7,Ava livestreaming the pizza party.
+images,ep4,ep4_img8,Janine drawing performance graphs excitedly.
+images,ep4,ep4_img9,Melissa smirking at the doorway.
+images,ep4,ep4_img10,Gregory presenting report to Janine.
+images,ep4,ep4_img11,Janine approving Gregory�s final report.
+images,ep4,ep4_img12,Ava holding enrollment chart dramatically.
+images,ep4,ep4_img13,Melissa flipping through performance metrics.
+images,ep4,ep4_img14,Gregory nervously adjusting his shirt.
+images,ep4,ep4_img15,Ava sneakily snapping selfies.
+images,ep4,ep4_img16,Janine holding up final graph.
+images,ep4,ep4_img17,Melissa raising eyebrow at Janine.
+images,ep4,ep4_img18,Gregory smiling at enrollment chart.
+images,ep4,ep4_img19,"Ava checking her phone, grinning."
+images,ep4,ep4_img20,Janine and Gregory high-five.
